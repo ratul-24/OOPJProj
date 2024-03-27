@@ -1,0 +1,10 @@
+6 pc Chicken wings,300.0,6
+Chicken Burger,100.0,8
+Pepperoni Pizza,219.0,8
+Mac'n Cheese,200.0,10
+Peri Peri Fries,89.0,3
+Non Veg Wrap,99.0,9
+Fresh Veggie Burger,69.0,8
+Fresh Veggie Wrap,89.0,10
+Ramen Noodles,159.0,8
+paneer tikka,50.0,10

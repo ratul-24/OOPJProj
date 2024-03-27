@@ -1,0 +1,27 @@
+1,Burger,5,500.0
+1,Pizza,3,600.0
+2,Pizza,4,800.0
+3,Pizza,1,200.0
+4,Pizza,1,200.0
+5,Pizza,1,200.0
+6,Burger,2,200.0
+7,Burger,2,200.0
+8,Fries,2,140.0
+9,Fries,1,70.0
+10,Fries,1,70.0
+11,Fries,1,70.0
+12,fg,2,48.0
+13,fg,2,48.0
+14,fg,2,48.0
+15,fg,1,24.0
+16,Pepperoni Pizza,2,438.0
+16,6 pc Chicken wings,1,300.0
+17,Peri Peri Fries,2,178.0
+18,6 pc Chicken wings,1,300.0
+18,Non Veg Wrap,1,99.0
+19,Ramen Noodles,2,318.0
+20,Chicken Burger,2,200.0
+21,6 pc Chicken wings,1,300.0
+22,6 pc Chicken wings,1,300.0
+23,Peri Peri Fries,5,445.0
+23,Fresh Veggie Burger,2,138.0
